@@ -5,8 +5,8 @@ Lame integration plugin for the [Ranger File Manager](https://github.com/ranger/
 
 Lame
 
-Install lame on mac using HomeBrew: `brew install lame`
-Install lame on ubuntu using apt: `sudo apt install lame`
+- Install lame on mac using HomeBrew: `brew install lame`
+- Install lame on ubuntu using apt: `sudo apt install lame`
 
 # Installation
 Copy `ranger-lame.py` file to ~/.config/ranger/plugins folder and restart ranger.
